@@ -1,0 +1,82 @@
+p
+{
+	font-size:14px;
+	margin:0px;
+	padding: 2px;
+	overflow: hidden;
+	
+	justify-content:flex-start;
+	flex-wrap: wrap; 
+}
+canvas
+{
+	border: 2px solid;
+	margin: auto;
+	width: 75%; 
+	height: 85%;
+}
+
+
+.os
+{
+	border: 2px solid black;
+	margin:2px;
+	padding: 2px;
+	overflow: hidden;
+	justify-content:flex-start;
+	flex-wrap: wrap; 
+	
+}
+.content
+{
+	width: 840px; 
+	height: 400px;
+	border: 2px solid;
+	margin: auto;
+	display: flex;
+	justify-content: space-evenly;
+	
+}
+
+.control
+{
+	display: flex;
+	flex-direction: column;
+	margin: auto;
+	width: 210px; 
+	height: 300px;
+	justify-content: space-evenly;
+	align-items: center;
+	flex-wrap: wrap; 
+}
+button
+{
+	
+	width: 170px; 
+	height: 40px;
+	
+}
+
+input
+{
+	width: 170px; 
+	height: 40px;
+}
+
+.name
+{
+
+	border: 1px solid;
+	position: absolute;
+	margin: 360px 0px 0px 5px;
+	width: 184px; 
+	height: 20px;
+	
+}
+
+.let1
+{
+	width: 532px; 
+	height: 400px;
+	overflow: auto;
+}
